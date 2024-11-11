@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Florencia Taranto</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
+- My final project [https://gamevault-frontend.vercel.app/](https://gamevault-frontend.vercel.app/)
+
 - 📫 How to reach me **florencia.taranto.ft@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
